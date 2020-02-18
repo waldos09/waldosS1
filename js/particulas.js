@@ -1,4 +1,3 @@
-/* ---- particles.js config ---- */
 
 particlesJS("particles-js", {
   "particles": {
