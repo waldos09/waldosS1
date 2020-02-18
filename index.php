@@ -138,8 +138,8 @@
 		</div>
 	</footer>
 	</div>
-	<script src="js/particles.js"></script>
-	<script src="js/Particulas.js"></script>
+	<script src="../js/particles.js"></script>
+	<script src="../js/Particulas.js"></script>
 	<!-- <canvas width="755" height="378" style="width: 100%; height: 100%;"></canvas> -->
 </body>
 </html>
